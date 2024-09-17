@@ -25,4 +25,4 @@ async def dice(ctx, n: int):
     await ctx.send(f'You rolled a die with a range of 1 to {n}: {roll}')
 
 # Run the bot with your token
-bot.run('MTI4NTY4NDMyNzIxNjMyMDUxMg.GO4mdp.zbJb9gntd2D-qXJufp-W0LanR0pVaAOHg3Kf6I')
+bot.run('CAMBIAR CUANDO SE SUBA')
